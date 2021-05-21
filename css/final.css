@@ -1,0 +1,55 @@
+#first {
+    color: tomato;
+    text-align: center;
+}
+
+#second {
+    color: violet;
+    text-align: center;
+}
+
+.intro {
+    color: yellowgreen;
+    font-size: medium;
+    font-style: italic;
+}
+
+.descrip {
+    color: violet;
+    font-size: medium;
+    font-style: bold;
+}
+
+.conclusion {
+    color: red;
+    font-size: large;
+    font-style: oblique;
+}
+
+.logo {
+    height: 200px;
+    width: 20%;
+    float: left;
+    margin-right: 2%;
+    border: 5px solid;
+
+}
+
+#logoone {
+    background-image: url('Images/pancake.jpg');
+    margin-left:1%;
+
+}
+
+#logotwo {
+    background-image: url('Images/popcornedit.jpg');
+}
+
+#logothree {
+    background-image: url('Images/choclate.jpg');
+}
+
+#logofour {
+    background-image: url('Images/food.jpg');
+    margin-right: 10%;
+}
