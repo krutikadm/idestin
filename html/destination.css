@@ -1,0 +1,34 @@
+.logo{
+    height: 300px;
+    width: 250px;
+    float: left;
+    margin-right: 4%;
+    
+
+}
+#logoone{
+    background-image: url('cancun.jpg');
+    background-size: cover;
+    margin-left: 2%;
+}
+#logotwo{
+    background-image: url('cancun1.jpg');
+    background-size: cover;
+}
+#logothree{
+    background-image: url('wildlife cancun.jpg');
+    background-size: cover;
+}
+#bahamasone{
+    background-image: url('bahamas.jpg');
+    background-size: cover;
+    margin-left: 2%;
+}
+#bahamastwo{
+    background-size: cover;
+    background-image: url('bahamas1.jpg');
+}
+#bahamasthree{
+    background-image: url('bahamas2.jpg');
+    background-size: cover;
+}
