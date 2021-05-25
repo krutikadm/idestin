@@ -32,3 +32,19 @@
     background-image: url('bahamas2.jpg');
     background-size: cover;
 }
+.about{
+    font-size: medium;
+    font-style: italic;
+    color:#17202A;
+}
+.intro{
+    font-size:larger;
+    color: tomato;
+    font-style: normal;
+}
+#copywrite{
+    text-align: center;
+    font-size: 14px;
+    color: yellowgreen;
+
+}
